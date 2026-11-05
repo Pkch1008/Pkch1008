@@ -1,21 +1,114 @@
-<h3 align="center">A passionate data analytics</h3>
 
-- 🌱 I’m currently learning **Data Science , Machine Learning,**
+# Hi, I'm Pankaj Kumar Chaurasiya 👋
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Pankaj-kumar-chaurasiya](https://codebasics.io/portfolio/Pankaj-kumar-chaurasiya)
+### 🎓 M.Sc. Mechatronics Student | Mechanical Engineer | Data Analytics
 
-- 📝 I regularly write articles on [I’m sharing insights and writing articles on LinkedIn about the latest trends and techniques in data analytics."](I’m sharing insights and writing articles on LinkedIn about the latest trends and techniques in data analytics.")
+📍 Munich, Germany
 
-- 💬 Ask me about **"Hi, I’m Pankaj Kumar Chaurasiya, a mechanical engineer with a passion for data analytics. I’ve completed several data analytics projects, which you can explore on my GitHub. Ask me about how I blend engineering expertise with data-driven insights!**
+I'm currently pursuing my Master's degree in **Mechatronics in Germany**, with a background in Mechanical Engineering and practical experience in Data Analytics.
 
-- 📫 How to reach me **chaurasiyapankaj424@gmail.com**
+I'm interested in combining engineering principles with programming, simulation, automation, and data-driven problem-solving.
 
-- ⚡ Fun fact **"Fun fact: As a mechanical engineer turned data enthusiast, I love optimizing both machines and data! When I'm not analyzing numbers, I’m probably tinkering with something to make it run smoother.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=["https://linkedin.com/in/linkedin.com/in/pankaj-kumar-chaurasiya-821075213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pankaj-kumar-chaurasiya-821075213" height="30" width="40" /></a>
-</p>](https://www.linkedin.com/in/pankaj-kumar-chaurasiya-821075213/)
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🎓 Currently studying **M.Sc. Mechatronics**
+- ⚙️ Background in **Mechanical Engineering**
+- 💻 Working with **MATLAB, Simulink, Python and SQL**
+- 📊 Experience with **Power BI, Excel and Data Analytics**
+- 📚 Learning **Control Systems, Numerical Methods and System Modelling**
+- 🎯 Interested in **Mechatronics, Automation, Simulation and Engineering Analytics**
+
+---
+
+## 🛠️ Technical Skills
+
+### ⚙️ Engineering & Simulation
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-FF9800?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control_Systems-34495E?style=for-the-badge)
+![Numerical Methods](https://img.shields.io/badge/Numerical_Methods-2C3E50?style=for-the-badge)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- State-Space Modelling and Linearization
+- Control Systems and System Dynamics
+- MATLAB and Simulink
+- Numerical Methods for Engineering
+- Mathematical Modelling and Simulation
+- Mechatronic Systems and Automation
+
+---
+
+## 📂 Projects
+
+### ⚙️ Mechatronics & Engineering
+
+**MATLAB and Simulink Projects**
+- Dynamic system modelling
+- Mass-friction system simulation
+- PI and PID controller simulation
+- Numerical methods using MATLAB
+- State-space system analysis
+
+*Engineering projects and documentation will be added as they are completed.*
+
+### 📊 Data Analytics Projects
+
+Explore my existing projects involving:
+
+- Power BI dashboards and business intelligence
+- Python-based data analysis
+- SQL queries and database analysis
+- Insurance, hospitality and sales analytics
+
+🔗 [Explore My Repositories](https://github.com/Pkch1008?tab=repositories)
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pkch1008&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pkch1008&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in developing my career in:
+
+- Mechatronics Engineering
+- Automation and Control Systems
+- MATLAB/Simulink Modelling and Simulation
+- Engineering Data Analytics
+- Industrial Digitalization
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pkch1008)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-kumar-chaurasiya-821075213/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codebasics.io/portfolio/Pankaj-kumar-chaurasiya)
+
+---
+
+⭐ **Combining Mechanical Engineering, Mechatronics and Data Analytics to solve real-world engineering problems.**
